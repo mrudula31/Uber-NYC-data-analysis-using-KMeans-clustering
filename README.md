@@ -7,4 +7,4 @@ The data from New York City which has five boroughs: Brooklyn, Queens, Manhattan
 
 Clustering is the process of dividing the datasets into groups, consisting of similar data-points”. Clustering is a type of unsupervised machine learning, which is used when you have unlabeled data.
 
-Here, we have applied a K-Means clustering algorithm whose main goal is to group similar elements or data points into a cluster. “K” in K-means represents the number of clusters. You can check here for working principle of K-Means algorithm.
+Here, we have applied a K-Means clustering algorithm whose main goal is to group similar elements or data points into a cluster. “K” in K-means represents the number of clusters. 
