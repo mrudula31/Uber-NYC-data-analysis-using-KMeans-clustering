@@ -12,7 +12,7 @@ Here, we have applied a K-Means clustering algorithm whose main goal is to group
 You need to have folium package installed in your jupyter notebook or in your anaconda navigator to view the map 
 
 
-To install folium package in jupyter Notebook , run the following codes
+To install Folium package in jupyter Notebook , run the following codes
 
   $ pip install folium
   
