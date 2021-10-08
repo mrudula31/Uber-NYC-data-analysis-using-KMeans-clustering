@@ -1,5 +1,7 @@
 # Uber-NYC-data-analysis-using-KMeans-clustering
+<p align="center">
 <img src="https://user-images.githubusercontent.com/72124233/136561555-cb5764d5-6cd1-4926-937a-9e4295f09e6c.png" width="800" height="800" title="Uber">
+ </p>
 
 Uber Technologies Inc is a peer-to-peer ride sharing platform. Uber platform connects the cab drivers who can drive to the customer location. Uber uses machine learning, from calculating pricing to finding the optimal positioning of cars to maximize profits. Used public uber trip dataset to discuss building a real-time example for analysis and monitoring of car GPS data.
 
