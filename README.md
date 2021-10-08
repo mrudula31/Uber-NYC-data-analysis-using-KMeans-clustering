@@ -13,11 +13,17 @@ you need to have folium package installed in jupyter notebook or anaconda naviga
 
 
 To install folium package in jupyter Notebook , run the following codes
+
   $ pip install folium
-To install the same in Anaconda Navigtor 
+  
+To install the same in Anaconda Navigtor
+
   conda install -c conda-forge folium
+  
   conda install -c conda-forge/label/gcc7 folium
+  
   conda install -c conda-forge/label/cf201901 folium
+  
   conda install -c conda-forge/label/cf202003 folium
   
 
