@@ -7,4 +7,17 @@ The data from New York City which has five boroughs: Brooklyn, Queens, Manhattan
 
 Clustering is the process of dividing the datasets into groups, consisting of similar data-points”. Clustering is a type of unsupervised machine learning, which is used when you have unlabeled data.
 
-Here, we have applied a K-Means clustering algorithm whose main goal is to group similar elements or data points into a cluster. “K” in K-means represents the number of clusters. 
+Here, we have applied a K-Means clustering algorithm whose main goal is to group similar elements or data points into a cluster. “K” in K-means represents the number of clusters.
+
+you need to have folium package installed in jupyter notebook or anaconda navigator to view the map 
+
+
+To install folium package in jupyter Notebook , run the following codes
+  $ pip install folium
+To install the same in Anaconda Navigtor 
+  conda install -c conda-forge folium
+  conda install -c conda-forge/label/gcc7 folium
+  conda install -c conda-forge/label/cf201901 folium
+  conda install -c conda-forge/label/cf202003 folium
+  
+
