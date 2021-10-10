@@ -19,10 +19,15 @@ Output, Cluster Centers are displayed on the Map
 
 # Used Packages
 "*" Numpy
+
 "*" Pandas
+
 "*" Matplitlib
+
 "*" Folium
+
 "*" PyLab
+
 "*" scikit-learn
 
 
