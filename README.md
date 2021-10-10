@@ -15,7 +15,7 @@ Here, we have applied a K-Means clustering algorithm whose main goal is to group
 
 You need to have folium package installed in your jupyter notebook or in your anaconda navigator to view the map.
 Output, Cluster Centers are displayed on the Google Map
-
+![Screenshot (529)](https://user-images.githubusercontent.com/72124233/136681358-5cc22d42-4e3f-40d6-b6b8-4c359d9b4442.png)
 
 
 
