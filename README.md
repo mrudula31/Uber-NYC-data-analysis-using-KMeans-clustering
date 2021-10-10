@@ -13,7 +13,10 @@ Clustering is the process of dividing the datasets into groups, consisting of si
 
 Here, we have applied a K-Means clustering algorithm whose main goal is to group similar elements or data points into a cluster. “K” in K-means represents the number of clusters.
 
-You need to have folium package installed in your jupyter notebook or in your anaconda navigator to view the map 
+You need to have folium package installed in your jupyter notebook or in your anaconda navigator to view the map.
+Output, Cluster Centers are displayed on the Google Map
+
+
 
 
 To install Folium package in jupyter Notebook , run the following codes
