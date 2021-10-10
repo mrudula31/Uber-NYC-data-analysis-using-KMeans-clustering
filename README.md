@@ -18,7 +18,7 @@ Output, Cluster Centers are displayed on the Map
 ![Screenshot (529)](https://user-images.githubusercontent.com/72124233/136681358-5cc22d42-4e3f-40d6-b6b8-4c359d9b4442.png)
 
 # Required Packages
-The code is written in a Jupyter Notebook with a Python 2.7 kernel, and in addition it requires the following packages:
+The code is written in a Jupyter Notebook and in addition it requires the following packages:
 
    * Numpy
    
