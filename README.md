@@ -20,10 +20,10 @@ Output, Cluster Centers are displayed on the Map
 # Required Packages
 The code is written in a Jupyter Notebook with a Python 2.7 kernel, and in addition it requires the following packages:
 
-  Numpy
-  Pandas 
-  Matplotlib 
-  PyLab
-  scikit-learn
+  *Numpy
+  *Pandas 
+  *Matplotlib 
+  *PyLab
+  *scikit-learn
   
 
